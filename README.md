@@ -1,2 +1,2 @@
 # ai_detection
-# ai_detection
+A project to experiment with using LLMs to detect malicious activity. This repo is a companion to a talk from [Objective by the Sea v7](https://objectivebythesea.org/v7/talks.html#Speaker_22).
